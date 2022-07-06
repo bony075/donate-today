@@ -5,11 +5,11 @@ body {
 
 
 .hading {
-    background-image: url(/images/donation12.png);
-    background-repeat: no-repeat;
+    background-image: url(../images/donation14.webp);
+    /* background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    padding: 10%;
+    padding: 10%; */
 }
 
 .btn-color {
